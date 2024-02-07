@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    border-width: 2;
+    border-color: black;
+}
+.col{
+    height: 22px;
+    border-width: 2;
+    border-color: black;
+}
